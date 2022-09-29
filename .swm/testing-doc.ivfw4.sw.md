@@ -2,39 +2,27 @@
 id: ivfw4
 name: testing doc
 file_version: 1.0.2
-app_version: 0.9.6-1
+app_version: 0.9.7-0
 file_blobs:
-  .gitignore: c6e129949175091adf0c323170ba6277393bd0af
+  LICENSE: 0ad25db4bd1d86c452db3f9602ccdbe172438f52
 ---
 
-ljfjlfdso
 
 
-
-
-<br/>
-
-fisdifbsol;km\[lmf s;mhfhf
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 .gitignore
-```gitignore
-⬜ 1      !.gitignore
-🟩 2      
-🟩 3      #
-🟩 4      #Generic
-🟩 5      #
-🟩 6      
-🟩 7      .directory
-🟩 8      .mailmap
-🟩 9      *.orig
-🟩 10     *.rej
-🟩 11     *.*~
-🟩 12     .hg/
-🟩 13     *.kdev*
-🟩 14     .DS_Store
-⬜ 15     CMakeLists.txt.user
-⬜ 16     *.bak
-⬜ 17     *.patch
+### 📄 LICENSE
+```
+⬜ 10       The GNU Affero General Public License is a free, copyleft license for
+⬜ 11     software and other kinds of works, specifically designed to ensure
+⬜ 12     cooperation with the community in the case of network server software.
+🟩 13     
+🟩 14       The licenses for most software and other practical works are designed
+🟩 15     to take away your freedom to share and change the works.  By contrast,
+🟩 16     our General Public Licenses are intended to guarantee your freedom to
+🟩 17     share and change all versions of a program--to make sure it remains free
+⬜ 18     software for all its users.
+⬜ 19     
+⬜ 20       When we speak of free software, we are referring to freedom, not
 ```
 
 <br/>
