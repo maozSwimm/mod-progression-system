@@ -4,7 +4,7 @@ It allows to load scripts and sql files automatically dependent on level bracket
 
 </br>
 </br>
-CONFIG
+ppppppp
 
 [Here](https://github.com/UltraNix/mod_progression-system/blob/master/conf/progression_system.conf.dist#L34) you can set which level brackets should be loaded. It'a bitmask, so you can set here multiple brackets to be loaded. [Allowed brackets masks](https://github.com/UltraNix/mod_progression-system/blob/master/src/ProgressionSystem.h#L11)
 
